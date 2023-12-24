@@ -1,0 +1,33 @@
+---
+layout: single
+title: "java 환경설정"
+---
+
+# java 환경설정
+
+## sdkman install
+```
+https://sdkman.io/
+```
+
+## java install
+```shell
+sdk list java
+sdk install java [version]
+```
+
+## spring cli install
+```shell
+sdk list springboot
+sdk install springboot 
+```
+
+## idea command setting
+```
+https://www.jetbrains.com/help/idea/working-with-the-ide-features-from-command-line.html#toolbox
+```
+
+## HTTPie
+```
+https://httpie.io/cli
+```
